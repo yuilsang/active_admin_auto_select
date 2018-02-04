@@ -17,5 +17,4 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake", "~> 10.0"
   spec.add_dependency "select2-rails", "3.5.2"
   spec.add_dependency "underscore-rails"
-  spec.add_dependency "pg"
 end
